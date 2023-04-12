@@ -11,7 +11,8 @@ To create a dashboard to analyze the bike sales count and different factors whic
 (2.) Data cleaning like removing duplicates, spaces and special characters, find and replace, formatting.\
 (3.) Created nested functions, custom columns to get additional information from the dataset.\
 (4.) Created Pivot tables, Charts and Graphs 📊📈 to summarise the data and visually get the information quickly.\
-(5.) Finally builded a dashboard adding slicers so that users can interact with the dashboard and view it for different conditions.
+(5.) Finally builded a dashboard adding slicers so that users can interact with the dashboard and view it for different conditions.\
+(6.) Added text cards and created Clear Filters button using VBA code to clear all filters in one click.
 
 🟡 Key insights :\
 ✅ Male people get the maximum average income of approx $60,000. So, they purchased bikes more as compared to females who got 7% less average income than males.\
